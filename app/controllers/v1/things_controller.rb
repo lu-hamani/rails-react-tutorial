@@ -8,3 +8,5 @@ class V1::ThingsController < ApplicationController
     ] }.to_json
   end
 end
+
+#testing
